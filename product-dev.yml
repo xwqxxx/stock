@@ -21,3 +21,8 @@ spring:
         max-idle: 8
         max-wait: -1ms
         min-idle: 0
+        
+        
+girl:
+  name: mo
+  age: 17        
